@@ -1,0 +1,54 @@
+.main_OwnAssets_div{
+  width: 88%;
+  display: grid;
+  justify-items: center;
+  margin: 0 auto;
+  row-gap: 35px;
+}
+
+.main_OwnAssets{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px , 1fr ));
+
+  justify-items: center;
+  gap: 40px;
+  justify-self: center;
+}
+
+.main_OwnAssets_div > p {
+  color: darkcyan;
+  font-size: 34px;
+  font-weight: bold;
+}
+.main_OwnAssets > a {
+  color: #ffffff;
+  width: 300px;
+  padding: 20px 0 ;
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+  border-radius: 20px;
+  display: grid;
+  justify-items: center;
+  gap: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+.main_OwnAssets > a > div {
+  display: grid;
+  grid-template-columns: repeat(3 ,1fr) 2fr;
+
+}
+.main_OwnAssets > a > div :first-child{
+  align-self: center;
+  font-size: 18px;
+
+}
+.main_OwnAssets > a > div :last-child{
+  color: #CD5C5C;
+  outline: none;
+  justify-self: end;
+  font-size: 24px;
+  font-weight: bold;
+  grid-column: 4/5;
+  align-self: center;
+}

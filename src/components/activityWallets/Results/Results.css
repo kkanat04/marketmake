@@ -1,0 +1,19 @@
+.results_day_title {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #161cff;
+}
+.results_day {
+  margin: 20px 0;
+}
+
+.results_assets_title {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #161cff;
+}
+.results_assets {
+  margin: 20px 0;
+}

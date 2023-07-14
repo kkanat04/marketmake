@@ -1,0 +1,6 @@
+.wallets {
+  margin: 10px;
+}
+.wallets > p {
+  margin: 15px 0;
+}

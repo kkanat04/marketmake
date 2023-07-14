@@ -1,0 +1,9 @@
+.lastTrades_title {
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #161cff;
+}
+.lastTrades {
+  margin: 50px 0;
+}

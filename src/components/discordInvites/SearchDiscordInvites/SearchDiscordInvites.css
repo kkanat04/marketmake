@@ -1,0 +1,13 @@
+.searchDiscordInvites {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  gap: 20px;
+  margin-top: 20px;
+}
+.searchDiscordInvites > div {
+  width: 300px;
+}
+.searchDiscordInvites > button {
+  padding: 0 50px;
+}

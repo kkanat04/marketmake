@@ -1,0 +1,20 @@
+.mentions > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.mentions > p {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.mentions h3 {
+  margin: 15px 0;
+}
+
+.mentions {
+  margin: 20px 0;
+}

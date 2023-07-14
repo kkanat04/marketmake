@@ -1,0 +1,28 @@
+.infoCollection_info_head {
+  display: grid;
+  grid-template-columns: repeat(10, 350px);
+  color: #DB3138;
+  font-weight: bold;
+  text-transform: uppercase;
+  place-items: center center;
+  margin-bottom: 50px;
+}
+
+.infoCollection_info_body {
+  display: grid;
+  grid-template-columns: repeat(10, 350px);
+  color: #fff;
+  place-items: center center;
+}
+
+.infoCollection_info {
+  overflow-x: scroll;
+  border-bottom: 1px solid #898989;
+  border-top: 1px solid #898989;
+  padding: 15px 0 15px 0;
+  width: 100%;
+}
+
+.infoCollection_info::-webkit-scrollbar {
+  width: 0;
+}

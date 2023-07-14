@@ -1,0 +1,16 @@
+.navigationMenu__btn {
+  padding: 10px;
+  border: none;
+  background-color: #61dafb;
+  border-radius: 7px;
+}
+
+.navigationMenu__column {
+  display: flex;
+  gap: 20px;
+}
+
+.navigationMenu > h3 {
+  text-align: center;
+  margin-bottom: 10px;
+}

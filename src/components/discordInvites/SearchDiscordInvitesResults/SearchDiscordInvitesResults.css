@@ -1,0 +1,44 @@
+.searchDiscordInvitesResults__el {
+  margin-top: 30px;
+  border: 1px solid #000;
+  padding: 20px;
+  border-radius: 10px;
+}
+.searchDiscordInvitesResults__el__channel {
+  margin-top: 20px;
+}
+.searchDiscordInvitesResults__el__inviter {
+  margin-top: 20px;
+}
+.searchDiscordInvitesResults__el__inviter > p {
+  margin: 15px 0 10px 0;
+}
+.searchDiscordInvitesResults__el__otherField__el {
+  margin: 20px 0;
+}
+.searchDiscordInvitesResults__el__otherField__el > h3 {
+  margin: 20px 0;
+}
+.searchDiscordInvitesResults {
+  margin: 0 30px;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type {
+  background-color: #1976d2;
+}
+.css-sh22l5-MuiButtonBase-root-MuiAccordionSummary-root {
+  border: 1px solid #000;
+}
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:last-of-type p {
+  font-weight: bold;
+  color: #fff;
+}
+.css-15v22id-MuiAccordionDetails-root p {
+  color: #000 !important;
+}
+
+.css-15v22id-MuiAccordionDetails-root {
+  background-color: #fff;
+}
+.css-yw020d-MuiAccordionSummary-expandIconWrapper.Mui-expanded {
+  color: #fff;
+}

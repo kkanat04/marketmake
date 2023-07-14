@@ -1,0 +1,9 @@
+.addDiscordInvitesPage__utm__el {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+.addDiscordInvitesPage > div {
+  margin: 20px 0 20px 30px;
+}

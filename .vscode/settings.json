@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    // "prettier.trailingComma": "all",
+    // "[typescriptreact]": {
+    //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[javascript]": {
+    //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[typescript]": {
+    //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "[graphql]": {
+    //   "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    // },
+    // "diffEditor.ignoreTrimWhitespace": false,
+    // "[css]": {
+    //   "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    // },
+    // "[json]": {
+    //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+  
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true,
+      "source.fixAll.eslint": true
+    },
+    "eslint.format.enable": true,
+    "eslint.alwaysShowStatus": true,
+    "security.workspace.trust.untrustedFiles": "open",
+  }
+  

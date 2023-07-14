@@ -1,0 +1,15 @@
+.walletsNft__column {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.walletsNft__column > * p {
+  margin: 15px 0;
+}
+.walletsNft__column__el > * {
+  margin: 15px 0;
+}
+.walletsNft {
+  margin: 0 20px;
+}

@@ -1,0 +1,19 @@
+.authentication {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.authentication__container {
+  background-color: #fff;
+  box-shadow: 0 0 7px 0 #0000006e;
+  padding: 24px 28px;
+  width: 400px;
+  border-radius: 10px;
+}
+.authentication__container > p {
+  text-align: center;
+  margin: 15px 0;
+}

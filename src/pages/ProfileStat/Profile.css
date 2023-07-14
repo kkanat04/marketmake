@@ -1,0 +1,21 @@
+.profile_graphic {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 100%;
+  gap: 30px;
+  margin-top: 30px;
+}
+.profile_go_back_colum {
+  background-color: red;
+  position: absolute;
+}
+.profile_head {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin: 0 auto;
+  padding: 15px 0 15px 0;
+}
+

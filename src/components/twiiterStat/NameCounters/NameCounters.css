@@ -1,0 +1,11 @@
+.nameCounters > p {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.nameCounters {
+  margin-top: 30px;
+}
+.nameCounters > div {
+  margin-bottom: 15px;
+}
